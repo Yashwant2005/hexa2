@@ -1,0 +1,30 @@
+{
+  "sessions": [
+    {
+      "id": "1072659486:1072659486",
+      "data": {
+        "groupChatLimitReached": false
+      }
+    },
+    {
+      "id": "1752227949:1752227949",
+      "data": {
+        "groupChatLimitReached": false,
+        "key": true,
+        "name": 7753673
+      }
+    },
+    {
+      "id": "-1002044488904:1752227949",
+      "data": {
+        "groupChatLimitReached": false
+      }
+    },
+    {
+      "id": "-1002044488904:1072659486",
+      "data": {
+        "groupChatLimitReached": false
+      }
+    }
+  ]
+}
